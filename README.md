@@ -16,7 +16,7 @@ The ZenPad is perfect for removing unnecessary and distracting buttons, colors a
 - Character count
 
 ## Planned Features
-- Text manipulation when selecting (thickness, color...)
+- Text manipulation when selected (thickness, color...)
 - Formatting help
-
+- Flow-Chart
 #
