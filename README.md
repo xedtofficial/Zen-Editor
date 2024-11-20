@@ -21,6 +21,7 @@ The ZenPad is perfect for removing unnecessary and distracting buttons, colors a
 - Formatting help
 - Flow-Chart
 - Customizable theme
+- Working Discord RPC
 
 ## System
 OS:         Windows <br>
